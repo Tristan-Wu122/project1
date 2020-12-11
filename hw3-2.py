@@ -24,6 +24,6 @@ for a in range(range_number):
     t1 = range     #將t1改為舊一輪的級距
 
 print(money_payable)
-
+print("no money")
 
 
