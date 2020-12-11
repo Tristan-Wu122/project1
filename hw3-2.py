@@ -25,5 +25,6 @@ for a in range(range_number):
 
 print(money_payable)
 print("no money")
+print("many money")
 
 
